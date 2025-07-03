@@ -29,7 +29,7 @@ uploaded_image = st.file_uploader("Upload a student photo", type=["jpg", "png", 
 
 if uploaded_image is not None:
     image = Image.open(uploaded_image)
-    st.image(image, caption="Uploaded Image", use_container_width=True)
+    st.image(image, caption="Uploaded Image", clamp=True)
 
     # Convert PIL to numpy array
     image_np = np.array(image)
