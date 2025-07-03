@@ -1,3 +1,4 @@
+streamlit
 ./dlib-20.0.0-cp311-cp311-linux_x86_64.whl
 face_recognition
 opencv-python
