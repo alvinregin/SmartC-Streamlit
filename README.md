@@ -14,8 +14,7 @@ SmartC is a simple and intuitive web application built using **Streamlit** and *
 
 ## 🖼️ Demo
 
-![Demo Screenshot](https://github.com/alvinregin/SmartC-Streamlit/assets/demo-screenshot.jpg)  
-*Add your own screenshot or GIF here.*
+![Demo Screenshot](assets/demo-screenshot.jpg)  
 
 ---
 
