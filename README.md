@@ -32,6 +32,11 @@ SmartC-Streamlit/
 ├── dlib-20.0.0-cp311-cp311-linux_x86_64.whl  # Precompiled dlib wheel for Python 3.11
 ├── packages.txt                              # Optional extra packages (if used for deployment)
 ├── requirements.txt                          # Python dependencies
+├── README.md                                 # Project overview and instructions
+├── LICENSE                                   # BSD 3-Clause License file
+└── assets/                                   # Folder containing demo screenshot
+    └── demo-screenshot.jpg
+
 └── README.md                                 # Project overview
 ```
 
@@ -117,4 +122,4 @@ For any queries or suggestions:
 
 ## 📝 License
 
-This project is licensed under the MIT License. See `LICENSE` file for details.
+This project is licensed under the BSD 3-Clause License - see the [LICENSE](LICENSE) file for details.
