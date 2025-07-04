@@ -36,8 +36,6 @@ SmartC-Streamlit/
 ├── LICENSE                                   # BSD 3-Clause License file
 └── assets/                                   # Folder containing demo screenshot
     └── demo-screenshot.jpg
-
-└── README.md                                 # Project overview
 ```
 
 ---
