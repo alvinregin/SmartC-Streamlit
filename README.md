@@ -1,4 +1,3 @@
-
 # 🎓 SmartC - Face Recognition Attendance System
 
 SmartC is a simple and intuitive web application built using **Streamlit** and **face_recognition** to automate student attendance through face recognition.
