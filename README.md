@@ -19,7 +19,7 @@ SmartC is a simple and intuitive web application built using **Streamlit** and *
 
 ## 📁 Folder Structure
 
-```
+```bash
 SmartC-Streamlit/
 │
 ├── app.py                                    # Main Streamlit application
