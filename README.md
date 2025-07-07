@@ -56,7 +56,7 @@ SmartC-Streamlit/
 
 Install the required packages using pip:
 
-```docker
+```dockerfile
 RUN pip install -r requirements.txt
 ```
 
