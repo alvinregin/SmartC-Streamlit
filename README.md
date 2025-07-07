@@ -43,7 +43,7 @@ SmartC-Streamlit/
 
 1. Add images of known students to the `known_faces/` folder (filename = student name).
 2. Run the Streamlit app:  
-   ```powershell
+   ```nginx
    streamlit run app.py
    ```
 3. Upload a student's photo through the UI.
