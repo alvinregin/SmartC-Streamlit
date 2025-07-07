@@ -56,7 +56,7 @@ SmartC-Streamlit/
 
 Install the required packages using pip:
 
-```bash
+```nginx
 pip install -r requirements.txt
 ```
 
