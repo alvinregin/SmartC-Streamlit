@@ -113,7 +113,7 @@ Alice_Wonder,2025-07-03 11:48:10
 ## 📬 Contact
 
 For any queries or suggestions:  
-**Alvin Regin** – [LinkedIn](https://www.linkedin.com/in/alvin-regin-3065b722b/) | [GitHub](https://github.com/alvinregin)
+**Alvin Regin** – [LinkedIn](https://www.linkedin.com/in/alvinregin/) | [GitHub](https://github.com/alvinregin)
 
 ---
 
