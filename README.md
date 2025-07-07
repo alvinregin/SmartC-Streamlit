@@ -57,7 +57,7 @@ SmartC-Streamlit/
 Install the required packages using pip:
 
 ```docker
-pip install -r requirements.txt
+RUN pip install -r requirements.txt
 ```
 
 > **Note**: On some systems, you may need to install `dlib` and `cmake` manually due to compilation dependencies.
