@@ -1,2 +1,2 @@
 libgl1
-libwebp6
+libwebp7
