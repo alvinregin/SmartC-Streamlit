@@ -1,4 +1,4 @@
 libgl1
-libwebp7
+libwebp6
 libpng-dev
 libjpeg-dev
