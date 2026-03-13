@@ -1,2 +1,3 @@
 libgl1
 libwebp7
+libpng-dev
