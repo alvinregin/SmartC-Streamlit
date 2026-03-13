@@ -1,15 +1,15 @@
 # 🎓 SmartC - Face Recognition Attendance System
 
-SmartC is a simple and intuitive web application built using **Streamlit** and **face_recognition** to automate student attendance through face recognition.
+SmartC is a simple and intuitive web application built using **Streamlit** and **face_recognition** to automate student attendance through face recognition. This project was originally developed during the NASSCOM Idealabs Hackathon to provide practical management tools for educational institutions.
 
 ## 🚀 Features
 
-- ✅ Recognizes and matches faces against a directory of known students
-- 📸 Upload a student's image and mark their attendance
-- 📝 Attendance log saved as `attendance.csv`
-- 📥 Download attendance records in CSV format
-- 🧠 Uses `face_recognition` for accurate face encoding and comparison
-- 💡 Fast and lightweight, suitable for small-scale or demo use
+* **✅ Recognizes and matches faces** against a directory of known students
+* **📸 Upload a student's image** and mark their attendance
+* **📝 Attendance log** saved as `attendance.csv`
+* **📥 Download attendance records** in CSV format
+* **🧠 Uses `face_recognition`** for accurate face encoding and comparison
+* **💡 Fast and lightweight**, suitable for small-scale or demo use
 
 ## 🖼️ Demo
 
@@ -101,12 +101,19 @@ Alice_Wonder,2025-07-03 11:48:10
 
 ---
 
-## 🛠️ Future Improvements
+## 🛠️ Project Roadmap
 
 - Live webcam attendance (via OpenCV)
 - Duplicate prevention for same-day entries
 - Role-based user access
 - Cloud storage integration (Google Drive/Sheets)
+
+---
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome! 
+Feel free to check the [issues page](https://github.com/alvinregin/SmartC-Streamlit/issues) if you want to contribute, suggest a feature, or report a bug.
 
 ---
 
